@@ -1,0 +1,10 @@
+
+For employee 1: 
+Name: prashant
+Position: psdf
+Salary: 11
+
+For employee 2: 
+Name: pratty
+Position: se
+Salary: 10
